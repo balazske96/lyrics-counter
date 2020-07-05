@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9cf8f6b07630fc2114bf0c400ed50ad1",
+    "revision": "2cdbd3d267fa0f58afbf04bff43ae2b1",
     "url": "/lyrics-counter/index.html"
   },
   {
