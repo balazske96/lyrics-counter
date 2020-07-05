@@ -1,0 +1,16 @@
+.lyrics-counter__input {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 50vw;
+}
+
+.ant-input {
+    height: 80vh !important;
+}
+
+@media screen and (max-width: 1000px) {
+    .lyrics-counter__input {
+        width: 90%;
+    }
+  }
