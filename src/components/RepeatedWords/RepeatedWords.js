@@ -26,7 +26,7 @@ export default function RepeatedWords() {
 
             {
                 Object.keys(repetitionWordDictionary).map((word, index) => {
-                    if (repetitionWordDictionary[word] == 2 && !exceptions.includes(word)) {
+                    if (repetitionWordDictionary[word] === 2 && !exceptions.includes(word)) {
                         return <Tag closable onClose={() => addToExceptions(word)} color="#9b870c">{word}</Tag>
                     } else if (repetitionWordDictionary[word] > 2 && !exceptions.includes(word)) {
                         return <Tag closable onClose={() => addToExceptions(word)} color="#cd201f">{word}</Tag>

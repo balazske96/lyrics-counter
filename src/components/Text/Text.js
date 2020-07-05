@@ -16,7 +16,7 @@ export default function Text() {
         let temporaryLibrary = {}
         let lyricsArray = event.target.value.trim().split(/[\n, ]/);
         lyricsArray.forEach(word => {
-            if (temporaryLibrary[word] != undefined) {
+            if (temporaryLibrary[word] !== undefined) {
 
                 temporaryLibrary[word] += 1;
             } else {
