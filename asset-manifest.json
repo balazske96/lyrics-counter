@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lyrics-counter/static/css/main.868edb4e.chunk.css",
+    "main.js": "/lyrics-counter/static/js/main.4fd59c5e.chunk.js",
+    "main.js.map": "/lyrics-counter/static/js/main.4fd59c5e.chunk.js.map",
+    "runtime-main.js": "/lyrics-counter/static/js/runtime-main.93584974.js",
+    "runtime-main.js.map": "/lyrics-counter/static/js/runtime-main.93584974.js.map",
+    "static/css/2.c27a359e.chunk.css": "/lyrics-counter/static/css/2.c27a359e.chunk.css",
+    "static/js/2.91624614.chunk.js": "/lyrics-counter/static/js/2.91624614.chunk.js",
+    "static/js/2.91624614.chunk.js.map": "/lyrics-counter/static/js/2.91624614.chunk.js.map",
+    "index.html": "/lyrics-counter/index.html",
+    "precache-manifest.b7725dda5c59a432f0e7405104ecd500.js": "/lyrics-counter/precache-manifest.b7725dda5c59a432f0e7405104ecd500.js",
+    "service-worker.js": "/lyrics-counter/service-worker.js",
+    "static/css/2.c27a359e.chunk.css.map": "/lyrics-counter/static/css/2.c27a359e.chunk.css.map",
+    "static/css/main.868edb4e.chunk.css.map": "/lyrics-counter/static/css/main.868edb4e.chunk.css.map",
+    "static/js/2.91624614.chunk.js.LICENSE.txt": "/lyrics-counter/static/js/2.91624614.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93584974.js",
+    "static/css/2.c27a359e.chunk.css",
+    "static/js/2.91624614.chunk.js",
+    "static/css/main.868edb4e.chunk.css",
+    "static/js/main.4fd59c5e.chunk.js"
+  ]
+}
